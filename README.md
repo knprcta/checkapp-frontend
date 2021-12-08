@@ -1,1 +1,1 @@
-# checkapp-frontend
+Фронтенд приложения CheckApp.
